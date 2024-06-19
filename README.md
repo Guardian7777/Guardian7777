@@ -27,4 +27,4 @@
 
 ------
 
-Credit: [Aneal07](https://github.com/Guardian7777)
+Credit: [Guardian7777](https://github.com/Guardian7777)
